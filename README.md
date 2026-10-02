@@ -221,23 +221,6 @@ O projeto está sendo desenvolvido de forma gradual.
 
 ---
 
-## 🤖 Possibilidades com Inteligência Artificial
-
-Uma evolução futura do projeto poderá utilizar recursos de Inteligência Artificial para auxiliar na organização e análise das informações.
-
-Qualquer recurso desse tipo deverá considerar:
-
-- revisão humana;
-- segurança;
-- privacidade;
-- transparência;
-- limites de utilização;
-- ausência de diagnóstico automatizado.
-
-A IA seria utilizada como **recurso de apoio à organização e análise**, e não como substituição da avaliação profissional.
-
----
-
 ## 💡 Motivação
 
 O Apoio TEA nasceu da percepção de que situações importantes do cotidiano podem ser difíceis de organizar quando ficam distribuídas entre conversas, mensagens e anotações.
